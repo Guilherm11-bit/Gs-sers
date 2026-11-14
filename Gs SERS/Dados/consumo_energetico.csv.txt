@@ -1,0 +1,5 @@
+
+sistema,consumo_kwh_mes,custo_mensal,economia_percentual
+Convencional,288,125.04,0
+LED conectado à rede,115.2,50.02,60
+LED solar com sensores,54.72,0,81

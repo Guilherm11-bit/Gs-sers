@@ -1,0 +1,50 @@
+
+# Relatório SERS - Global Solution 2026.2
+
+## Projeto: Iluminação Sustentável em Praças Comunitárias
+
+### 1. Problema
+O sistema convencional de iluminação pode apresentar desperdício energético por permanecer ligado durante toda a noite com potência máxima.
+
+### 2. Solução
+Instalação de oito luminárias LED de 40 W, painéis solares fotovoltaicos, baterias e sensores de presença.
+
+### 3. Consumo convencional
+Potência total: 800 W.
+
+Tempo de funcionamento: 12 horas por dia.
+
+Consumo mensal:
+
+E = (800 × 12 × 30) / 1000
+
+E = 288 kWh/mês.
+
+### 4. Alternativa LED
+Potência total: 320 W.
+
+Consumo mensal:
+
+E = (320 × 12 × 30) / 1000
+
+E = 115,2 kWh/mês.
+
+### 5. Alternativa solar com sensores
+Potência média estimada: 152 W.
+
+Consumo equivalente:
+
+E = (152 × 12 × 30) / 1000
+
+E = 54,72 kWh/mês.
+
+### 6. Resultados
+- Economia LED: 60%.
+- Economia solar: 81%.
+- Participação renovável pretendida: 100%.
+- Emissões evitadas estimadas: 159,32 kg CO2/ano.
+
+### 7. Conclusão
+A utilização de energia solar, iluminação LED e sensores inteligentes pode reduzir o consumo da rede elétrica e melhorar a eficiência energética de espaços comunitários.
+
+Os valores apresentados são estimativas acadêmicas.

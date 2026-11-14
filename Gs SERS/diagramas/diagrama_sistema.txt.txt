@@ -1,0 +1,43 @@
+
+DIAGRAMA DE FUNCIONAMENTO
+
+          RADIAÇÃO SOLAR
+                 |
+                 v
+       PAINÉIS FOTOVOLTAICOS
+                 |
+                 v
+        CONTROLADOR DE CARGA
+                 |
+                 v
+              BATERIAS
+                 |
+                 v
+         SISTEMA DE CONTROLE
+                 |
+        +--------+--------+
+        |                 |
+        v                 v
+ SENSOR DE PRESENÇA  SENSOR DE LUZ
+        |                 |
+        +--------+--------+
+                 |
+                 v
+          CONTROLE LED
+                 |
+                 v
+        LUMINÁRIAS DA PRAÇA
+                 |
+                 v
+       SISTEMA DE MONITORAMENTO
+                 |
+                 v
+          PROCESSAMENTO PYTHON
+                 |
+                 v
+      NEIGHBORHOOD ACTION DASHBOARD
+                 |
+        +--------+--------+
+        |        |        |
+        v        v        v
+     CONSUMO  ECONOMIA   CO2
